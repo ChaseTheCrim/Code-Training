@@ -1,0 +1,5 @@
+Ogrenci: ahmet,31
+Ogrenci: mehmet,62
+###
+Ders: fizik,162,4
+Ders: tarih,101,2
